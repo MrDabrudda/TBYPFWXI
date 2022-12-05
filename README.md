@@ -11,3 +11,8 @@ This powershell script removes or disables features of Windows 11 which are comp
 6)  Click the Green Arrow in the toolbar to run the script
 7)  Reboot after the script finishes
 
+If you find this utility useful please consider donating to me.
+This script took over 2 weeks of working on it daily of researching, troubleshooting errors, troubleshooting VM problems, etc...and I'll continue to research other setting which need adjusting.
+
+https://paypal.me/MrDabrudda
+
